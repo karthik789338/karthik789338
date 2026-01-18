@@ -12,6 +12,9 @@
   <a href="https://www.linkedin.com/in/akvkumar/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-akvkumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="mailto:kvkadari@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
