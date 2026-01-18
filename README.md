@@ -2,10 +2,6 @@
   <img src="https://komarev.com/ghpvc/?username=karthik789338&label=Profile%20views&color=0e75b6&style=flat" alt="karthik789338" />
 </p>
 
-<p align="center">
-  <img src="https://camo.githubusercontent.com/69f6860b5d1f27c6298ee7f2b5546d5ab21277efa12fb2c82425a0ab02fd380d/68747470733a2f2f64726976652e676f6f676c652e636f6d2f75633f6578706f72743d766965772669643d3166746a4d352d446a6a55466b307568306e43376235683370784e317762774273" alt="banner" width="1000" />
-</p>
-
 <h1 align="center">Hi, I'm Karthik Adari 👋</h1>
 <h3 align="center">Founder • Data Engineer / Applied ML • GCP • GenAI</h3>
 
@@ -16,6 +12,10 @@
   <a href="https://www.linkedin.com/in/akvkumar/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-akvkumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://camo.githubusercontent.com/69f6860b5d1f27c6298ee7f2b5546d5ab21277efa12fb2c82425a0ab02fd380d/68747470733a2f2f64726976652e676f6f676c652e636f6d2f75633f6578706f72743d766965772669643d3166746a4d352d446a6a55466b307568306e43376235683370784e317762774273" alt="banner" width="1000" />
 </p>
 
 ---
