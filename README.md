@@ -64,7 +64,7 @@
   <img src="https://skillicons.dev/icons?i=gcp,aws,firebase,docker,tensorflow,fastapi,git,github,mongodb,linux" />
 </p>
 
-### Breakdown (ATS-friendly)
+### Breakdown
 - **Languages:** Python, SQL, JavaScript/TypeScript, R  
 - **Frameworks:** FastAPI  
 - **Cloud:** Google Cloud (Cloud Run, Cloud Storage, Firestore, Cloud Functions, IAM, Logging)  
