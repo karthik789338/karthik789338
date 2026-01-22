@@ -58,10 +58,10 @@
 
 ### Icons (quick scan)
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,r,sql,js,ts,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,r,postgresql,js,ts,html,css" />
 </p>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=gcp,aws,firebase,docker,fastapi,git,github,mongodb,linux" />
+  <img src="https://skillicons.dev/icons?i=gcp,aws,firebase,docker,tensorflow,fastapi,git,github,mongodb,linux" />
 </p>
 
 ### Breakdown (ATS-friendly)
