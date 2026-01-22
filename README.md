@@ -61,7 +61,7 @@
   <img src="https://skillicons.dev/icons?i=python,r,sql,js,ts,html,css" />
 </p>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=gcp,firebase,docker,fastapi,git,github,mongodb,linux" />
+  <img src="https://skillicons.dev/icons?i=gcp,aws,firebase,docker,fastapi,git,github,mongodb,linux" />
 </p>
 
 ### Breakdown (ATS-friendly)
