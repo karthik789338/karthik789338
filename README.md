@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi, I'm Karthik Adari 👋</h1>
-<h3 align="center">Founder • Data Engineer / Applied ML • GCP • GenAI</h3>
+<h3 align="center">Founder • Data Engineer / Applied ML • GCP/AWS • GenAI</h3>
 
 <p align="center">
   <a href="https://karthikadari.com/" target="_blank">
